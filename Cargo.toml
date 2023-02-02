@@ -1,0 +1,11 @@
+[package]
+name = "saidide"
+version = "0.1.0"
+edition = "2021"
+description = "Implementation of Self-Addressing-IDentifier (SAID) Specification"
+license = "Apache-2.0"
+keywords = ["cesr", "keri", "acdc", "said"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
